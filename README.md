@@ -5,11 +5,11 @@
 
 👀 I’m curious about learning, experimenting, and improving with time.
 
- I’m open to learning together and collaborating on ideas or projects in data science.
+ ✨I’m open to learning together and collaborating on ideas or projects in data science.
 
 📫 How to reach me: nithyashreedn.213@gmail.com
 
-✨ This profile is a small space where I share my learning journey.
+ 
 
 
 <!--
