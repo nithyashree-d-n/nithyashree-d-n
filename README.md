@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 Hi, I’m Nithyashree 
 
-🌱 I’m a beginner learner, exploring and understanding things step by step.
+🌱 I’m a beginner, exploring and understanding things step by step.
 
 👀 I’m curious about learning, experimenting, and improving with time.
 
